@@ -14,7 +14,7 @@ public class Produto{
 			this.produto = produto;
 			this.marca = marca;
 			this.valorCompra = valorCompra;
-			this.valorVenda = valorVenda;
+			this.valorVenda;
 		}
 		//Método para calculo de lucro.
 		private double lucro() {
